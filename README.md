@@ -1,6 +1,6 @@
 # learn-router
 
-> This is to learn vue-router.
+> This is to learn to make a douban web app.
 
 ## Build Setup
 
